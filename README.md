@@ -4,11 +4,11 @@ This guide will document the entire configuration process, installation of depen
 
 # Installation and configuration of the Linux server
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+First of all, select the Linux operating system you want to use. It is important to choose a light and efficient system to get the most out of the machine. It is smarter to choose a Linux system **without a graphical user interface (GUI)**
 
-## Create files and folders
+## Installing the OS
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Installation will depend on the chosen Linux system. Only basic configuration is necessary. From here the repository is based on an installation with Alpine Linux. The steps to install **Alpine Linux** are found on the official Alpine Linux [Wiki](https://wiki.alpinelinux.org/wiki/Installation)
 
 ## Switch to another file
 
