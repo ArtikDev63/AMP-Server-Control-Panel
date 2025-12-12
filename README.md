@@ -1,4 +1,4 @@
-# Instalation Guide For Linux - AMP Server Control Panel 
+# Instalation Guide For Linux - AMP Games Server Control Panel 
 
 This guide will document the entire configuration process, installation of dependencies and preparation on the Linux server side for the operation required for a Control Panel for servers
 
