@@ -1,14 +1,14 @@
 # Instalation Guide For Linux - AMP Games Server Control Panel 
 
-This guide will document the entire configuration process, installation of dependencies and preparation on the Linux server side for the operation required for a Control Panel for servers
+This guide will document the entire process of configuring, installing dependencies, and preparing the Linux server side for the required operation of a Server Control Panel.
 
 # Installation and configuration of the Linux server
 
-First of all, select the Linux operating system you want to use. It is important to choose a light and efficient system to get the most out of the machine. It is smarter to choose a Linux system **without a graphical user interface (GUI)**
+First, you need to select the right Linux operating system. It's important to choose a lightweight and efficient system to get the most out of your computer. It's wiser to choose a Linux system **without a graphical user interface (GUI)**.
 
-## Installing the OS
+## Installing OS
 
-Installation will depend on the chosen Linux system. Only basic configuration is necessary. From here the repository is based on an installation with Alpine Linux. The steps to install **Alpine Linux** are found on the official Alpine Linux [Wiki](https://wiki.alpinelinux.org/wiki/Installation)
+The installation process will depend on the chosen Linux distribution. Only basic configuration is required. From this point on, the repository is based on an Alpine Linux installation. The steps to install Alpine Linux SAE can be found on the official Alpine Linux [Wiki](https://wiki.alpinelinux.org/wiki/Installation).
 
 ## Switch to another file
 
