@@ -78,4 +78,5 @@ button:hover{
 .a-no-deco{
     text-decoration: none;
     color: var(--color-light);
+    outline: none;
 }
